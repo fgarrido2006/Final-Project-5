@@ -1,0 +1,48 @@
+h1{
+    color: white !important;
+    text-align: center;
+}
+
+.a{
+    color:white;
+}
+
+.scratchbody{
+    background-color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+.AMH{
+    color: #003ad8;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.AboutMeHeading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    align-items: right;
+    font-weight: bold;
+
+}
+
+.profilepic{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+    align-items: center;
+}
+
+.ListHeading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
